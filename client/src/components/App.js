@@ -54,6 +54,6 @@ function App() {
       <NewMessage currentUser={testUser} onAddMessage={handleAddMessage} />
     </main>
   );
-}
+}//
 
 export default App;
